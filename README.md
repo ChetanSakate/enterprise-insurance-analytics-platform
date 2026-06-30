@@ -796,7 +796,8 @@ Each dashboard serves a unique audience while sharing a common dimensional wareh
 
 # 📈 Dashboard 1 — Executive Overview
 
-[dashboard_1.pdf](https://github.com/user-attachments/files/29522652/dashboard_1.pdf)
+<img width="1755" height="1240" alt="dashboard_1_page-0001" src="https://github.com/user-attachments/assets/6852e95c-7b30-4e39-8457-8a3bff1f5c49" />
+
 
 ### Purpose
 
@@ -828,7 +829,8 @@ Provides a real-time executive view of portfolio performance through enterprise 
 
 # 👥 Dashboard 2 — Customer & Policy Analytics
 
-[Dashboard_2.pdf](https://github.com/user-attachments/files/29522661/Dashboard_2.pdf)
+<img width="1755" height="1240" alt="Dashboard_2_page-0001" src="https://github.com/user-attachments/assets/38cc06de-370f-4938-b1b6-f1ba12de6584" />
+
 
 ### Purpose
 
@@ -859,7 +861,8 @@ Provides a 360-degree view of customer demographics, policy distribution, and pr
 
 # 🛡️ Dashboard 3 — Claims Analytics & Settlement Intelligence
 
-[Dashboard_3.pdf](https://github.com/user-attachments/files/29522663/Dashboard_3.pdf)
+<img width="1755" height="1240" alt="Dashboard_3_page-0001" src="https://github.com/user-attachments/assets/9ca961aa-3bca-4c3e-b415-f4e436fdf370" />
+
 
 ### Purpose
 
@@ -892,7 +895,8 @@ Monitors claim performance, settlement efficiency, financial exposure, and opera
 
 # ⚠️ Dashboard 4 — Risk & Underwriting Intelligence
 
-[Dashboard_4.pdf](https://github.com/user-attachments/files/29522673/Dashboard_4.pdf)
+<img width="1755" height="1240" alt="Dashboard_4_page-0001" src="https://github.com/user-attachments/assets/63f53bdc-eb19-4ce4-8b1b-8ab4e2c8f8a4" />
+
 
 ### Purpose
 
